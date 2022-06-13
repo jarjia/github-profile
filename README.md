@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jarjia
 - 👀 I’m interested in Frontend development with react.js
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me fingerpick01@mail.ru
 
