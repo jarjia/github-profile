@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarjia
 - 👀 I’m interested in Frontend development with react.js
-- 🌱 I’m currently learning Typescript and Node.js
-- 💞️ I’m looking to collaborate on backend development
+- 🌱 I’m currently learning Typescript and Laravel
+- 💞️ I’m looking to collaborate on getting job
 - 📫 How to reach me jarjaabua@gmail.com
 
 <!---
