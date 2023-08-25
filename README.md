@@ -53,7 +53,7 @@
   <tr>
     <td valign="top" halign="center" width="100%">
        <a href="https://epic-movie-quotes.jarjia.redberryinternship.ge/">
-         <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
+         <img width="400" src="./epic-movie-quotes.jarjia.redberryinternship.ge_newsfeed (1).png" />
        </a>
      </td>
   </tr>
